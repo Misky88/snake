@@ -1,6 +1,10 @@
 
 import java.awt.Color;
 
+/**
+ * 
+ * @author Mario
+ */
 public class Player {
 
     private String name;

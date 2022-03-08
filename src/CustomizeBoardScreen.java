@@ -8,6 +8,11 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 
 //needs massive improvements
+
+/**
+ * 
+ * @author Mario
+ */
 public class CustomizeBoardScreen extends JPanel {
 
     JButton go;
